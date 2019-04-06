@@ -11,9 +11,8 @@ nlp = spacy.load("en")
 
 #initialize our chat sentences
 #topics included:(2 points)
-#1. Personal infor & hobbies
-#2. School life 
-#3. Family members
+#1. Personal life & hobbies
+#2. Family members
 
 data={
 'major':['CS'],
